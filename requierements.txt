@@ -1,0 +1,20 @@
+# ── Streamlit App ──────────────────────────────────────────────────────────
+streamlit>=1.32.0
+
+# ── Machine Learning & NLP ─────────────────────────────────────────────────
+scikit-learn>=1.4.0
+pandas>=2.0.0
+numpy>=1.26.0
+nltk>=3.8.1
+joblib>=1.3.0
+
+# ── Deep Learning (notebook uniquement) ───────────────────────────────────
+tensorflow>=2.15.0
+
+# ── Transformers (notebook uniquement) ────────────────────────────────────
+transformers>=4.39.0
+torch>=2.2.0
+
+# ── Visualisation (notebook uniquement) ───────────────────────────────────
+matplotlib>=3.8.0
+seaborn>=0.13.0
